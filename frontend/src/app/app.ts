@@ -77,7 +77,8 @@ export class AppComponent implements OnInit {
   ngOnInit() {
     this.api.getTransacoes().subscribe({
       next: (res) => {
-        this.transacoes = res.dados;
+        console.log("CHEGOU DO BACKEND:", res);
+        this.transacoes = res.dados || res.data || [];
         this.calcularResumo();
       },
       error: (err) => console.error('Erro ao buscar dados:', err)
