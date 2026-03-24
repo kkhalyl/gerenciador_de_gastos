@@ -1,0 +1,25 @@
+{
+  "name": "Assistente Financeiro (Python + Angular)",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",              
+        "ms-python.vscode-pylance",       
+        "Angular.ng-template",            
+        "esbenp.prettier-vscode",        
+        "mtxr.sqltools",                 
+        "mtxr.sqltools-driver-pg"        
+      ]
+    }
+  },
+
+  "postCreateCommand": "npm install -g @angular/cli"
+}

@@ -1,0 +1,1808 @@
+[
+    {
+        "data_transacao": "2026-01-22",
+        "descricao": "COD. LANC. 0 - TRANSFERENCIA PIX",
+        "valor": 0.0,
+        "saldo_apos_transacao": 76.87
+    },
+    {
+        "data_transacao": "2026-01-23",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 23/01 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 66.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "REM: Nasthya Barauna Peixo 24/01 - TRANSFERENCIA PIX",
+        "valor": 20.0,
+        "saldo_apos_transacao": 86.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "REM: Riame Moreira Braga 24/01 - TRANSFERENCIA PIX",
+        "valor": 400.0,
+        "saldo_apos_transacao": 486.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "REM: Nasthya Barauna Peixo 26/01 - TRANSFERENCIA PIX",
+        "valor": 12.0,
+        "saldo_apos_transacao": 498.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "REM: Ronivaldo Xavier de F 24/01 - TRANSFERENCIA PIX",
+        "valor": 18.0,
+        "saldo_apos_transacao": 516.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: Elder Jesus Ron Marti 26/01 - TRANSFERENCIA PIX",
+        "valor": -50.0,
+        "saldo_apos_transacao": 466.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: Elder Jesus Ron Marti 26/01 - TRANSFERENCIA PIX",
+        "valor": -50.0,
+        "saldo_apos_transacao": 416.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: Elisvan Brandete Alve 26/01 - PIX QR CODE ESTATICO",
+        "valor": -33.0,
+        "saldo_apos_transacao": 383.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: Domingos da Silva Per 26/01 - PIX QR CODE ESTATICO",
+        "valor": -10.0,
+        "saldo_apos_transacao": 373.87
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: Maikon Maia Farias 25/01 - PIX QR CODE DINAMICO",
+        "valor": -12.66,
+        "saldo_apos_transacao": 361.21
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: Zig Tecnologia S.A. 25/01 - PIX QR CODE DINAMICO",
+        "valor": -27.48,
+        "saldo_apos_transacao": 333.73
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: Zig Tecnologia S.A. 25/01 - PIX QR CODE DINAMICO",
+        "valor": -66.0,
+        "saldo_apos_transacao": 267.73
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: CENTRO DO ALUMINIO IN 24/01 - PIX QR CODE DINAMICO",
+        "valor": -23.14,
+        "saldo_apos_transacao": 244.59
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: MUCURIPE COMERCIO DE 24/01 - PIX QR CODE DINAMICO",
+        "valor": -40.0,
+        "saldo_apos_transacao": 204.59
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 26/01 - PIX QR CODE DINAMICO",
+        "valor": -4.23,
+        "saldo_apos_transacao": 200.36
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: UBER DO BRASIL TECNOL 26/01 - PIX QR CODE DINAMICO",
+        "valor": -17.91,
+        "saldo_apos_transacao": 182.45
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: TM RELURE MANAUARA CO 24/01 - PIX QR CODE DINAMICO",
+        "valor": -39.9,
+        "saldo_apos_transacao": 142.55
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: SINART 24/01 - PIX QR CODE DINAMICO",
+        "valor": -17.0,
+        "saldo_apos_transacao": 125.55
+    },
+    {
+        "data_transacao": "2026-01-26",
+        "descricao": "DES: ACAI NOBRE 25/01 - TRANSFERENCIA PIX",
+        "valor": -2.0,
+        "saldo_apos_transacao": 123.55
+    },
+    {
+        "data_transacao": "2026-01-27",
+        "descricao": "REM: Ronivaldo Xavier de F 27/01 - TRANSFERENCIA PIX",
+        "valor": 150.0,
+        "saldo_apos_transacao": 273.55
+    },
+    {
+        "data_transacao": "2026-01-27",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 27/01 - PIX QR CODE DINAMICO",
+        "valor": -5.0,
+        "saldo_apos_transacao": 268.55
+    },
+    {
+        "data_transacao": "2026-01-27",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 27/01 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 263.85
+    },
+    {
+        "data_transacao": "2026-01-27",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 27/01 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 259.15
+    },
+    {
+        "data_transacao": "2026-01-27",
+        "descricao": "DES: DROGARIAS SANTO REMED 27/01 - RECEBIMENTO FORNECEDOR",
+        "valor": -35.9,
+        "saldo_apos_transacao": 223.25
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "GOVERNO DO ESTADO DO AMAZONAS - TRANSFERENCIA PIX",
+        "valor": 700.0,
+        "saldo_apos_transacao": 923.25
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "REM: KHALYL ROCHA DE FREIT 28/01 - TRANSFERENCIA PIX",
+        "valor": 1.36,
+        "saldo_apos_transacao": 924.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 28/01 - TRANSFERENCIA PIX",
+        "valor": -8.25,
+        "saldo_apos_transacao": 916.36
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 28/01 - TRANSFERENCIA PIX",
+        "valor": -1.75,
+        "saldo_apos_transacao": 914.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: Rizalberto de Vasconc 28/01 - TRANSFERENCIA PIX",
+        "valor": -12.0,
+        "saldo_apos_transacao": 902.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 28/01 - TRANSFERENCIA PIX",
+        "valor": -25.0,
+        "saldo_apos_transacao": 877.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 28/01 - PIX QR CODE ESTATICO",
+        "valor": -42.0,
+        "saldo_apos_transacao": 835.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: RAIMUNDA LIMA ESTRELA 28/01 - PIX QR CODE ESTATICO",
+        "valor": -10.0,
+        "saldo_apos_transacao": 825.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: SEBASTIAN MAYA CARDON 28/01 - PIX QR CODE ESTATICO",
+        "valor": -21.0,
+        "saldo_apos_transacao": 804.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: TED CRISTIAN SOLIMOES 28/01 - PIX QR CODE DINAMICO",
+        "valor": -12.0,
+        "saldo_apos_transacao": 792.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 28/01 - PIX QR CODE DINAMICO",
+        "valor": -5.0,
+        "saldo_apos_transacao": 787.61
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 28/01 - PIX QR CODE DINAMICO",
+        "valor": -6.1,
+        "saldo_apos_transacao": 781.51
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: G C M GAMA COMERCIO E 28/01 - PIX QR CODE DINAMICO",
+        "valor": -25.0,
+        "saldo_apos_transacao": 756.51
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 28/01 - PIX QR CODE DINAMICO",
+        "valor": -19.2,
+        "saldo_apos_transacao": 737.31
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 28/01 - PIX QR CODE DINAMICO",
+        "valor": -9.2,
+        "saldo_apos_transacao": 728.11
+    },
+    {
+        "data_transacao": "2026-01-28",
+        "descricao": "DES: 40 561 402 Nicole Nob 28/01 - TRANSFERENCIA PIX",
+        "valor": -28.0,
+        "saldo_apos_transacao": 700.11
+    },
+    {
+        "data_transacao": "2026-01-29",
+        "descricao": "REM: Tedy Prist de Souza P 29/01",
+        "valor": 9.33,
+        "saldo_apos_transacao": 709.44
+    },
+    {
+        "data_transacao": "2026-01-29",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 709.45
+    },
+    {
+        "data_transacao": "2026-01-29",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 29/01 - PIX QR CODE ESTATICO",
+        "valor": -610.0,
+        "saldo_apos_transacao": 99.45
+    },
+    {
+        "data_transacao": "2026-01-29",
+        "descricao": "DES: Domingos da Silva Per 29/01 - PIX QR CODE DINAMICO",
+        "valor": -10.0,
+        "saldo_apos_transacao": 89.45
+    },
+    {
+        "data_transacao": "2026-01-29",
+        "descricao": "DES: UBER DO BRASIL TECNOL 29/01 - PIX QR CODE DINAMICO",
+        "valor": -5.91,
+        "saldo_apos_transacao": 83.54
+    },
+    {
+        "data_transacao": "2026-01-29",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 29/01 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 78.84
+    },
+    {
+        "data_transacao": "2026-01-29",
+        "descricao": "DES: J EUDES ROLIM DUARTE 29/01 - TED-TRANSF ELET DISPON",
+        "valor": -5.0,
+        "saldo_apos_transacao": 73.84
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "REMET.BORNLOGIC TECNOLOGIA - TRANSFERENCIA PIX",
+        "valor": 1350.0,
+        "saldo_apos_transacao": 1423.84
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "REM: Mirian Silva Farias 30/01 - TRANSFERENCIA PIX",
+        "valor": 10.0,
+        "saldo_apos_transacao": 1433.84
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "REM: Riame Moreira Braga 30/01 - TRANSFERENCIA PIX",
+        "valor": 400.0,
+        "saldo_apos_transacao": 1833.84
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: Nasthya Barauna Peixo 30/01 - TRANSFERENCIA PIX",
+        "valor": -60.0,
+        "saldo_apos_transacao": 1773.84
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: Ana Clara De Castro C 30/01 - PIX QR CODE ESTATICO",
+        "valor": -750.0,
+        "saldo_apos_transacao": 1023.84
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: Jonas Chagas Batista 30/01 - PIX QR CODE DINAMICO",
+        "valor": -6.36,
+        "saldo_apos_transacao": 1017.48
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: UBER DO BRASIL TECNOL 30/01 - PIX QR CODE DINAMICO",
+        "valor": -9.95,
+        "saldo_apos_transacao": 1007.53
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 30/01 - PIX QR CODE DINAMICO",
+        "valor": -5.0,
+        "saldo_apos_transacao": 1002.53
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: ASSAI ATACADISTA 30/01 - PIX QR CODE DINAMICO",
+        "valor": -22.77,
+        "saldo_apos_transacao": 979.76
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 30/01 - PIX QR CODE DINAMICO",
+        "valor": -4.9,
+        "saldo_apos_transacao": 974.86
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 30/01 - PIX QR CODE DINAMICO",
+        "valor": -23.11,
+        "saldo_apos_transacao": 951.75
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: HOME CENTER COROADO 30/01 - PIX QR CODE DINAMICO",
+        "valor": -88.81,
+        "saldo_apos_transacao": 862.94
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 30/01 - PIX QR CODE DINAMICO",
+        "valor": -5.4,
+        "saldo_apos_transacao": 857.54
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 30/01 - PIX QR CODE DINAMICO",
+        "valor": -19.1,
+        "saldo_apos_transacao": 838.44
+    },
+    {
+        "data_transacao": "2026-01-30",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 30/01",
+        "valor": -27.7,
+        "saldo_apos_transacao": 810.74
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 810.75
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 02/02 - TRANSFERENCIA PIX",
+        "valor": -3.0,
+        "saldo_apos_transacao": 807.75
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 31/01 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 797.75
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: Nasthya Barauna Peixo 01/02 - TRANSFERENCIA PIX",
+        "valor": -16.0,
+        "saldo_apos_transacao": 781.75
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: THIAGO THALES GOMES X 31/01 - TRANSFERENCIA PIX",
+        "valor": -32.0,
+        "saldo_apos_transacao": 749.75
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 31/01 - PIX QR CODE ESTATICO",
+        "valor": -350.0,
+        "saldo_apos_transacao": 399.75
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: AGUAS DO AMAZONAS S 02/02 - PIX QR CODE ESTATICO",
+        "valor": -60.8,
+        "saldo_apos_transacao": 338.95
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: Alekyssandra Letycia 31/01 - PIX QR CODE DINAMICO",
+        "valor": -36.0,
+        "saldo_apos_transacao": 302.95
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: AMAZONAS ENERGIA S.A 02/02 - PIX QR CODE DINAMICO",
+        "valor": -51.01,
+        "saldo_apos_transacao": 251.94
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: UBER DO BRASIL TECNOL 31/01 - PIX QR CODE DINAMICO",
+        "valor": -11.91,
+        "saldo_apos_transacao": 240.03
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: UBER DO BRASIL TECNOL 31/01 - PIX QR CODE DINAMICO",
+        "valor": -16.9,
+        "saldo_apos_transacao": 223.13
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: UBER DO BRASIL TECNOL 01/02 - PIX QR CODE DINAMICO",
+        "valor": -24.45,
+        "saldo_apos_transacao": 198.68
+    },
+    {
+        "data_transacao": "2026-02-02",
+        "descricao": "DES: UBER DO BRASIL TECNOL 02/02",
+        "valor": -14.94,
+        "saldo_apos_transacao": 183.74
+    },
+    {
+        "data_transacao": "2026-02-03",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 183.75
+    },
+    {
+        "data_transacao": "2026-02-03",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 03/02 - TRANSFERENCIA PIX",
+        "valor": -75.0,
+        "saldo_apos_transacao": 108.75
+    },
+    {
+        "data_transacao": "2026-02-03",
+        "descricao": "DES: Roberto Charles Olive 03/02 - TRANSFERENCIA PIX",
+        "valor": -17.0,
+        "saldo_apos_transacao": 91.75
+    },
+    {
+        "data_transacao": "2026-02-03",
+        "descricao": "DES: AMARILDO DE ALCANTARA 03/02 - PIX QR CODE DINAMICO",
+        "valor": -5.0,
+        "saldo_apos_transacao": 86.75
+    },
+    {
+        "data_transacao": "2026-02-03",
+        "descricao": "DES: UBER DO BRASIL TECNOL 03/02 - TRANSFERENCIA PIX",
+        "valor": -7.91,
+        "saldo_apos_transacao": 78.84
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "REM: Khalyl Rocha de Freit 04/02 - TRANSFERENCIA PIX",
+        "valor": 475.0,
+        "saldo_apos_transacao": 553.84
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "REM: Elder Jesus Ron Marti 04/02 - PIX QR CODE ESTATICO",
+        "valor": 34.0,
+        "saldo_apos_transacao": 587.84
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "DES: Domingos da Silva Per 04/02 - PIX QR CODE DINAMICO",
+        "valor": -10.0,
+        "saldo_apos_transacao": 577.84
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 04/02 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 573.14
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "DES: STRIPE BRASIL SOLUCOE 04/02 - PIX QR CODE DINAMICO",
+        "valor": -33.75,
+        "saldo_apos_transacao": 539.39
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "DES: CENTRO DO ALUMINIO IN 04/02 - PIX QR CODE DINAMICO",
+        "valor": -185.0,
+        "saldo_apos_transacao": 354.39
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "DES: CENTRO DO ALUMINIO IN 04/02 - PIX QR CODE DINAMICO",
+        "valor": -70.5,
+        "saldo_apos_transacao": 283.89
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "DES: CENTRO DO ALUMINIO IN 04/02 - PIX QR CODE DINAMICO",
+        "valor": -113.0,
+        "saldo_apos_transacao": 170.89
+    },
+    {
+        "data_transacao": "2026-02-04",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 04/02 - TRANSF AUTORIZ ENTRE AGS",
+        "valor": -6.1,
+        "saldo_apos_transacao": 164.79
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "KHALEB ROCHA DE FREITAS - TRANSF SALDO C/SAL P/CC",
+        "valor": 1500.0,
+        "saldo_apos_transacao": 1664.79
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "COMDASP CONSULTORIA EMPRESARIAL - TRANSFERENCIA PIX",
+        "valor": 1551.72,
+        "saldo_apos_transacao": 3216.51
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 05/02 - TRANSFERENCIA PIX",
+        "valor": -1500.0,
+        "saldo_apos_transacao": 1716.51
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "DES: Elder Jesus Ron Marti 05/02 - PIX QR CODE ESTATICO",
+        "valor": -1000.0,
+        "saldo_apos_transacao": 716.51
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "DES: RAIMUNDA LIMA ESTRELA 05/02 - PIX QR CODE ESTATICO",
+        "valor": -10.0,
+        "saldo_apos_transacao": 706.51
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "DES: PRADO DISTRIBUIDORA 05/02 - PIX QR CODE DINAMICO",
+        "valor": -35.1,
+        "saldo_apos_transacao": 671.41
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 05/02 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 666.71
+    },
+    {
+        "data_transacao": "2026-02-05",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 05/02",
+        "valor": -13.1,
+        "saldo_apos_transacao": 653.61
+    },
+    {
+        "data_transacao": "2026-02-06",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 653.62
+    },
+    {
+        "data_transacao": "2026-02-06",
+        "descricao": "DES: FREDGAARD VICTOR CAVI 06/02 - PIX QR CODE DINAMICO",
+        "valor": -80.0,
+        "saldo_apos_transacao": 573.62
+    },
+    {
+        "data_transacao": "2026-02-06",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 06/02 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 568.92
+    },
+    {
+        "data_transacao": "2026-02-06",
+        "descricao": "DES: UBER DO BRASIL TECNOL 06/02 - PIX QR CODE DINAMICO",
+        "valor": -17.91,
+        "saldo_apos_transacao": 551.01
+    },
+    {
+        "data_transacao": "2026-02-06",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 06/02 - PIX QR CODE DINAMICO",
+        "valor": -4.8,
+        "saldo_apos_transacao": 546.21
+    },
+    {
+        "data_transacao": "2026-02-06",
+        "descricao": "DES: WLADEMIR M. VILLAR LO 06/02 - PIX QR CODE DINAMICO",
+        "valor": -6.0,
+        "saldo_apos_transacao": 540.21
+    },
+    {
+        "data_transacao": "2026-02-06",
+        "descricao": "DES: WLADEMIR M. VILLAR LO 06/02 - TRANSFERENCIA PIX",
+        "valor": -48.0,
+        "saldo_apos_transacao": 492.21
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "REM: Nathalye Alves Acácio 08/02 - TRANSFERENCIA PIX",
+        "valor": 90.0,
+        "saldo_apos_transacao": 582.21
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "REM: Nasthya Barauna Peixo 08/02 - TRANSFERENCIA PIX",
+        "valor": 3.66,
+        "saldo_apos_transacao": 585.87
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: EUDIVAN MORAES MACHAD 08/02 - TRANSFERENCIA PIX",
+        "valor": -15.5,
+        "saldo_apos_transacao": 570.37
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: Deivys Alexander Mart 07/02 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 560.37
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: Elmison Bertino Dos S 09/02 - TRANSFERENCIA PIX",
+        "valor": -11.0,
+        "saldo_apos_transacao": 549.37
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 08/02 - TRANSFERENCIA PIX",
+        "valor": -20.0,
+        "saldo_apos_transacao": 529.37
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: EDSON SOARES DA SILVA 08/02 - TRANSFERENCIA PIX",
+        "valor": -7.5,
+        "saldo_apos_transacao": 521.87
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: Khalyl Rocha de Freit 07/02 - TRANSFERENCIA PIX",
+        "valor": -30.0,
+        "saldo_apos_transacao": 491.87
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 08/02 - TRANSFERENCIA PIX",
+        "valor": -50.0,
+        "saldo_apos_transacao": 441.87
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: Edmilson Guedes Duart 07/02 - TRANSFERENCIA PIX",
+        "valor": -14.0,
+        "saldo_apos_transacao": 427.87
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: Nasthya Barauna Peixo 08/02 - PIX QR CODE ESTATICO",
+        "valor": -12.0,
+        "saldo_apos_transacao": 415.87
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: Andrezza Livia Rodrig 08/02 - PIX QR CODE DINAMICO",
+        "valor": -11.0,
+        "saldo_apos_transacao": 404.87
+    },
+    {
+        "data_transacao": "2026-02-09",
+        "descricao": "DES: PAGAR.ME PAGAMENTOS 07/02 - PIX QR CODE DINAMICO",
+        "valor": -57.61,
+        "saldo_apos_transacao": 347.26
+    },
+    {
+        "data_transacao": "2026-02-10",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 10/02 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 342.56
+    },
+    {
+        "data_transacao": "2026-02-10",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 10/02 - TRANSFERENCIA PIX",
+        "valor": -9.8,
+        "saldo_apos_transacao": 332.76
+    },
+    {
+        "data_transacao": "2026-02-11",
+        "descricao": "DES: EDCARLOS ALVES DE LIM 11/02 - TRANSFERENCIA PIX",
+        "valor": -5.0,
+        "saldo_apos_transacao": 327.76
+    },
+    {
+        "data_transacao": "2026-02-11",
+        "descricao": "DES: MISAEL ALMEIDA DE LIM 11/02 - TRANSFERENCIA PIX",
+        "valor": -5.0,
+        "saldo_apos_transacao": 322.76
+    },
+    {
+        "data_transacao": "2026-02-11",
+        "descricao": "DES: JERUSA OLIVEIRA DA SI 11/02 - PIX QR CODE DINAMICO",
+        "valor": -5.0,
+        "saldo_apos_transacao": 317.76
+    },
+    {
+        "data_transacao": "2026-02-11",
+        "descricao": "DES: DROGARIAS SANTO REMED 11/02 - TRANSFERENCIA PIX",
+        "valor": -19.89,
+        "saldo_apos_transacao": 297.87
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "REM: Erin Dante de Oliveir 12/02",
+        "valor": 5.99,
+        "saldo_apos_transacao": 303.86
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 303.87
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "DES: RODRIGO CRUZ DE MELO 12/02 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 293.87
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 12/02 - TRANSFERENCIA PIX",
+        "valor": -12.0,
+        "saldo_apos_transacao": 281.87
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "DES: Nasthya Barauna Peixo 12/02 - TRANSFERENCIA PIX",
+        "valor": -30.0,
+        "saldo_apos_transacao": 251.87
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "DES: Khalyl Rocha De Freit 12/02 - PIX QR CODE DINAMICO",
+        "valor": -231.0,
+        "saldo_apos_transacao": 20.87
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 12/02 - PIX QR CODE DINAMICO",
+        "valor": -3.92,
+        "saldo_apos_transacao": 16.95
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 12/02 - PIX QR CODE DINAMICO",
+        "valor": -4.9,
+        "saldo_apos_transacao": 12.05
+    },
+    {
+        "data_transacao": "2026-02-12",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 12/02 - TRANSFERENCIA PIX",
+        "valor": -5.5,
+        "saldo_apos_transacao": 6.55
+    },
+    {
+        "data_transacao": "2026-02-13",
+        "descricao": "REM: COLEGIO CRISTAO DOCE 13/02 - TRANSFERENCIA PIX",
+        "valor": 97.5,
+        "saldo_apos_transacao": 104.05
+    },
+    {
+        "data_transacao": "2026-02-13",
+        "descricao": "DES: Diomar de Macedo Quei 13/02 - TRANSFERENCIA PIX",
+        "valor": -6.0,
+        "saldo_apos_transacao": 98.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "REM: Nasthya Barauna Peixo 15/02 - TRANSFERENCIA PIX",
+        "valor": 36.0,
+        "saldo_apos_transacao": 134.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "REM: Nasthya Barauna Peixo 15/02 - TRANSFERENCIA PIX",
+        "valor": 4.0,
+        "saldo_apos_transacao": 138.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "REM: NASTHYA BARAUNA PEIXO 15/02 - TRANSFERENCIA PIX",
+        "valor": 30.0,
+        "saldo_apos_transacao": 168.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "REM: NASTHYA BARAUNA PEIXO 15/02 - TRANSFERENCIA PIX",
+        "valor": 15.0,
+        "saldo_apos_transacao": 183.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "REM: Magno Wilson Coelho S 16/02 - TRANSFERENCIA PIX",
+        "valor": 100.0,
+        "saldo_apos_transacao": 283.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "REM: NASTHYA BARAUNA PEIXO 15/02 - TRANSFERENCIA PIX",
+        "valor": 36.0,
+        "saldo_apos_transacao": 319.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 14/02 - TRANSFERENCIA PIX",
+        "valor": -7.5,
+        "saldo_apos_transacao": 311.55
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 16/02 - TRANSFERENCIA PIX",
+        "valor": -30.0,
+        "saldo_apos_transacao": 281.55
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "DES: Khalyl Rocha De Freit 15/02 - TRANSFERENCIA PIX",
+        "valor": -36.0,
+        "saldo_apos_transacao": 245.55
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "DES: Edmilson da Silva Tav 15/02 - PIX QR CODE DINAMICO",
+        "valor": -82.5,
+        "saldo_apos_transacao": 163.05
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "DES: CENTRO DO ALUMINIO IN 16/02 - PIX QR CODE DINAMICO",
+        "valor": -42.33,
+        "saldo_apos_transacao": 120.72
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 17/02 - PIX QR CODE DINAMICO",
+        "valor": -6.4,
+        "saldo_apos_transacao": 114.32
+    },
+    {
+        "data_transacao": "2026-02-18",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 16/02 - TRANSFERENCIA PIX",
+        "valor": -10.17,
+        "saldo_apos_transacao": 104.15
+    },
+    {
+        "data_transacao": "2026-02-19",
+        "descricao": "REM: Ana Clara De Castro C 19/02 - TRANSFERENCIA PIX",
+        "valor": 1000.0,
+        "saldo_apos_transacao": 1104.15
+    },
+    {
+        "data_transacao": "2026-02-19",
+        "descricao": "REM: Erin Dante de Oliveir 19/02 - PIX QR CODE ESTATICO",
+        "valor": 7.0,
+        "saldo_apos_transacao": 1111.15
+    },
+    {
+        "data_transacao": "2026-02-19",
+        "descricao": "DES: BARTZ E MELCHIOR LTDA 19/02 - PIX QR CODE ESTATICO",
+        "valor": -22.0,
+        "saldo_apos_transacao": 1089.15
+    },
+    {
+        "data_transacao": "2026-02-19",
+        "descricao": "DES: BARTZ E MELCHIOR LTDA 19/02 - PIX QR CODE DINAMICO",
+        "valor": -9.0,
+        "saldo_apos_transacao": 1080.15
+    },
+    {
+        "data_transacao": "2026-02-19",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 19/02 - PIX QR CODE DINAMICO",
+        "valor": -4.2,
+        "saldo_apos_transacao": 1075.95
+    },
+    {
+        "data_transacao": "2026-02-19",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 19/02 - PIX QR CODE DINAMICO",
+        "valor": -4.3,
+        "saldo_apos_transacao": 1071.65
+    },
+    {
+        "data_transacao": "2026-02-19",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 19/02",
+        "valor": -23.6,
+        "saldo_apos_transacao": 1048.05
+    },
+    {
+        "data_transacao": "2026-02-20",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 1048.06
+    },
+    {
+        "data_transacao": "2026-02-20",
+        "descricao": "DES: EDWILSON SILVA DA CRU 20/02 - TRANSFERENCIA PIX",
+        "valor": -800.0,
+        "saldo_apos_transacao": 248.06
+    },
+    {
+        "data_transacao": "2026-02-20",
+        "descricao": "DES: EDWILSON SILVA DA CRU 20/02 - PIX QR CODE ESTATICO",
+        "valor": -50.0,
+        "saldo_apos_transacao": 198.06
+    },
+    {
+        "data_transacao": "2026-02-20",
+        "descricao": "DES: Raimunda Lima Estrela 20/02 - PIX QR CODE DINAMICO",
+        "valor": -10.0,
+        "saldo_apos_transacao": 188.06
+    },
+    {
+        "data_transacao": "2026-02-20",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 20/02 - PIX QR CODE DINAMICO",
+        "valor": -4.0,
+        "saldo_apos_transacao": 184.06
+    },
+    {
+        "data_transacao": "2026-02-20",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 20/02 - TRANSFERENCIA PIX",
+        "valor": -4.6,
+        "saldo_apos_transacao": 179.46
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "REM: NASTHYA BARAUNA PEIXO 23/02 - TRANSFERENCIA PIX",
+        "valor": 68.0,
+        "saldo_apos_transacao": 247.46
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "REM: NASTHYA BARAUNA PEIXO 23/02 - TRANSFERENCIA PIX",
+        "valor": 85.0,
+        "saldo_apos_transacao": 332.46
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "REM: NASTHYA BARAUNA PEIXO 22/02 - TRANSFERENCIA PIX",
+        "valor": 12.68,
+        "saldo_apos_transacao": 345.14
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 23/02 - TRANSFERENCIA PIX",
+        "valor": -15.0,
+        "saldo_apos_transacao": 330.14
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "DES: Gabriel da Costa Viei 23/02 - TRANSFERENCIA PIX",
+        "valor": -9.0,
+        "saldo_apos_transacao": 321.14
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "DES: Aielson Lemos da Silv 23/02 - TRANSFERENCIA PIX",
+        "valor": -5.0,
+        "saldo_apos_transacao": 316.14
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "DES: Elder Jesus Ron Marti 22/02 - PIX QR CODE ESTATICO",
+        "valor": -15.0,
+        "saldo_apos_transacao": 301.14
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "DES: Edmilson da Silva Tav 23/02 - PIX QR CODE DINAMICO",
+        "valor": -95.0,
+        "saldo_apos_transacao": 206.14
+    },
+    {
+        "data_transacao": "2026-02-23",
+        "descricao": "DES: LAVANDERIA 60 MINUTOS 23/02 - TRANSFERENCIA PIX",
+        "valor": -51.0,
+        "saldo_apos_transacao": 155.14
+    },
+    {
+        "data_transacao": "2026-02-25",
+        "descricao": "REM: FERNANDO DA SILVA COS 25/02 - TRANSFERENCIA PIX",
+        "valor": 20.0,
+        "saldo_apos_transacao": 175.14
+    },
+    {
+        "data_transacao": "2026-02-25",
+        "descricao": "DES: H. F. R. ALBUQUERQUE 25/02 - TRANSFERENCIA PIX",
+        "valor": -12.0,
+        "saldo_apos_transacao": 163.14
+    },
+    {
+        "data_transacao": "2026-02-25",
+        "descricao": "DES: Jacqueline Dias Estev 25/02 - PIX QR CODE DINAMICO",
+        "valor": -22.0,
+        "saldo_apos_transacao": 141.14
+    },
+    {
+        "data_transacao": "2026-02-25",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 25/02 - PIX QR CODE DINAMICO",
+        "valor": -4.7,
+        "saldo_apos_transacao": 136.44
+    },
+    {
+        "data_transacao": "2026-02-25",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 25/02 - PIX QR CODE DINAMICO",
+        "valor": -5.5,
+        "saldo_apos_transacao": 130.94
+    },
+    {
+        "data_transacao": "2026-02-25",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 25/02 - RECEBIMENTO FORNECEDOR",
+        "valor": -23.96,
+        "saldo_apos_transacao": 106.98
+    },
+    {
+        "data_transacao": "2026-02-26",
+        "descricao": "GOVERNO DO ESTADO DO AMAZONAS - TRANSFERENCIA PIX",
+        "valor": 700.0,
+        "saldo_apos_transacao": 806.98
+    },
+    {
+        "data_transacao": "2026-02-26",
+        "descricao": "DES: Khalyl Rocha De Freit 26/02 - PIX QR CODE DINAMICO",
+        "valor": -6.99,
+        "saldo_apos_transacao": 799.99
+    },
+    {
+        "data_transacao": "2026-02-26",
+        "descricao": "DES: UBER DO BRASIL TECNOL 26/02 - TED-TRANSF ELET DISPON",
+        "valor": -11.92,
+        "saldo_apos_transacao": 788.07
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "REMET.BORNLOGIC TECNOLOGIA",
+        "valor": 1350.0,
+        "saldo_apos_transacao": 2138.07
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.02,
+        "saldo_apos_transacao": 2138.09
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: ANA CLARA DE CASTRO C 27/02 - TRANSFERENCIA PIX",
+        "valor": -1700.0,
+        "saldo_apos_transacao": 438.09
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: THIAGO DE ALMEIDA SAN 27/02 - TRANSFERENCIA PIX",
+        "valor": -5.0,
+        "saldo_apos_transacao": 433.09
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: FREDGAARD VICTOR CAVI 27/02 - TRANSFERENCIA PIX",
+        "valor": -80.0,
+        "saldo_apos_transacao": 353.09
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: EZEQUIAS DE CARVALHO 27/02 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 343.09
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: Adeilson monteiro Pac 27/02 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 333.09
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: EVELLYN DE SOUZA PERE 27/02 - PIX QR CODE DINAMICO",
+        "valor": -30.0,
+        "saldo_apos_transacao": 303.09
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 27/02 - PIX QR CODE DINAMICO",
+        "valor": -9.4,
+        "saldo_apos_transacao": 293.69
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 27/02 - PIX QR CODE DINAMICO",
+        "valor": -8.7,
+        "saldo_apos_transacao": 284.99
+    },
+    {
+        "data_transacao": "2026-02-27",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 27/02 - TRANSFERENCIA PIX",
+        "valor": -6.2,
+        "saldo_apos_transacao": 278.79
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "REM: Tedy Prist de Souza P 28/02 - TRANSFERENCIA PIX",
+        "valor": 6.0,
+        "saldo_apos_transacao": 284.79
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "REM: Tedy Prist de Souza P 28/02 - TRANSFERENCIA PIX",
+        "valor": 10.0,
+        "saldo_apos_transacao": 294.79
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "REM: EVELLYN DE SOUZA PERE 28/02",
+        "valor": 9.33,
+        "saldo_apos_transacao": 304.12
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 304.13
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Wilson Lukas Loureiro 28/02 - TRANSFERENCIA PIX",
+        "valor": -11.5,
+        "saldo_apos_transacao": 292.63
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Tharssis Carlos Macha 28/02 - TRANSFERENCIA PIX",
+        "valor": -20.0,
+        "saldo_apos_transacao": 272.63
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Tufy Jezini Neto 28/02 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 262.63
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Alex Marcos Souza Cun 28/02 - TRANSFERENCIA PIX",
+        "valor": -12.1,
+        "saldo_apos_transacao": 250.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: RANIEL DE OLIVEIRA QU 28/02 - TRANSFERENCIA PIX",
+        "valor": -20.0,
+        "saldo_apos_transacao": 230.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Elder Jesus Ron Marti 02/03 - TRANSFERENCIA PIX",
+        "valor": -5.0,
+        "saldo_apos_transacao": 225.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: GENILDO VIANA SANTANA 28/02 - TRANSFERENCIA PIX",
+        "valor": -100.0,
+        "saldo_apos_transacao": 125.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Elder Jesus Ron Marti 28/02 - TRANSFERENCIA PIX",
+        "valor": -20.0,
+        "saldo_apos_transacao": 105.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 28/02 - PIX QR CODE ESTATICO",
+        "valor": -6.0,
+        "saldo_apos_transacao": 99.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Ana Claudia Souza Oli 28/02 - PIX QR CODE ESTATICO",
+        "valor": -15.0,
+        "saldo_apos_transacao": 84.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: MARCO ANTONIO F CARDO 02/03 - PIX QR CODE DINAMICO",
+        "valor": -20.0,
+        "saldo_apos_transacao": 64.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: Jim Antonic Jimenez L 28/02 - PIX QR CODE DINAMICO",
+        "valor": -6.0,
+        "saldo_apos_transacao": 58.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: ACAI YU SARA 28/02 - PIX QR CODE DINAMICO",
+        "valor": -17.0,
+        "saldo_apos_transacao": 41.53
+    },
+    {
+        "data_transacao": "2026-03-02",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 02/03 - TRANSFERENCIA PIX",
+        "valor": -4.23,
+        "saldo_apos_transacao": 37.3
+    },
+    {
+        "data_transacao": "2026-03-03",
+        "descricao": "REM: L. MENDONCA DE OLIVEI 03/03 - TRANSFERENCIA PIX",
+        "valor": 97.5,
+        "saldo_apos_transacao": 134.8
+    },
+    {
+        "data_transacao": "2026-03-03",
+        "descricao": "DES: Cleudison De Jesus Ga 03/03 - TRANSFERENCIA PIX",
+        "valor": -4.0,
+        "saldo_apos_transacao": 130.8
+    },
+    {
+        "data_transacao": "2026-03-03",
+        "descricao": "DES: Samara Leticia Albuqu 03/03 - TRANSFERENCIA PIX",
+        "valor": -8.0,
+        "saldo_apos_transacao": 122.8
+    },
+    {
+        "data_transacao": "2026-03-03",
+        "descricao": "DES: Cássio de Melo Amaral 03/03 - TRANSFERENCIA PIX",
+        "valor": -13.0,
+        "saldo_apos_transacao": 109.8
+    },
+    {
+        "data_transacao": "2026-03-03",
+        "descricao": "DES: André Luis Torres Mon 03/03 - PIX QR CODE DINAMICO",
+        "valor": -30.0,
+        "saldo_apos_transacao": 79.8
+    },
+    {
+        "data_transacao": "2026-03-03",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 03/03 - DEP DINHEIRO ATM",
+        "valor": -5.4,
+        "saldo_apos_transacao": 74.4
+    },
+    {
+        "data_transacao": "2026-03-04",
+        "descricao": "AG02467MAQ004107SEQ06678 - TRANSFERENCIA PIX",
+        "valor": 700.0,
+        "saldo_apos_transacao": 774.4
+    },
+    {
+        "data_transacao": "2026-03-04",
+        "descricao": "REM: Elder Jesus Ron Marti 04/03 - TRANSFERENCIA PIX",
+        "valor": 15.0,
+        "saldo_apos_transacao": 789.4
+    },
+    {
+        "data_transacao": "2026-03-04",
+        "descricao": "DES: Nasthya Barauna Peixo 04/03 - TRANSFERENCIA PIX",
+        "valor": -700.0,
+        "saldo_apos_transacao": 89.4
+    },
+    {
+        "data_transacao": "2026-03-04",
+        "descricao": "DES: Khalyl Rocha de Freit 04/03 - PIX QR CODE DINAMICO",
+        "valor": -70.0,
+        "saldo_apos_transacao": 19.4
+    },
+    {
+        "data_transacao": "2026-03-04",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 04/03 - PIX QR CODE DINAMICO",
+        "valor": -9.55,
+        "saldo_apos_transacao": 9.85
+    },
+    {
+        "data_transacao": "2026-03-04",
+        "descricao": "DES: Gernandes Duarte Mira 04/03 - TRANSF SALDO C/SAL P/CC",
+        "valor": -6.0,
+        "saldo_apos_transacao": 3.85
+    },
+    {
+        "data_transacao": "2026-03-05",
+        "descricao": "COMDASP CONSULTORIA EMPRESARIAL - PIX QR CODE ESTATICO",
+        "valor": 1501.03,
+        "saldo_apos_transacao": 1504.88
+    },
+    {
+        "data_transacao": "2026-03-05",
+        "descricao": "DES: Rafael Antônio Santos 05/03 - PIX QR CODE DINAMICO",
+        "valor": -14.0,
+        "saldo_apos_transacao": 1490.88
+    },
+    {
+        "data_transacao": "2026-03-05",
+        "descricao": "DES: FATIA GRILL 05/03 - TRANSFERENCIA PIX",
+        "valor": -45.9,
+        "saldo_apos_transacao": 1444.98
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "REM: Nasthya Barauna Peixo 06/03",
+        "valor": 10.0,
+        "saldo_apos_transacao": 1454.98
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 1454.99
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 06/03 - TRANSFERENCIA PIX",
+        "valor": -600.0,
+        "saldo_apos_transacao": 854.99
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: Nasthya Barauna Peixo 06/03 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 844.99
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: LUCIA BASTOS DE LIMA 06/03 - TRANSFERENCIA PIX",
+        "valor": -12.0,
+        "saldo_apos_transacao": 832.99
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: ANDRE LUIS TORRES MON 06/03 - PIX QR CODE ESTATICO",
+        "valor": -50.0,
+        "saldo_apos_transacao": 782.99
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: GUAS DE MANAUS 06/03 - PIX QR CODE DINAMICO",
+        "valor": -62.34,
+        "saldo_apos_transacao": 720.65
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 06/03 - PIX QR CODE DINAMICO",
+        "valor": -12.22,
+        "saldo_apos_transacao": 708.43
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: SP AM GELATERIA LTDA 06/03 - PIX QR CODE DINAMICO",
+        "valor": -29.95,
+        "saldo_apos_transacao": 678.48
+    },
+    {
+        "data_transacao": "2026-03-06",
+        "descricao": "DES: J. M. XANXES LTDA 06/03 - TRANSFERENCIA PIX",
+        "valor": -70.0,
+        "saldo_apos_transacao": 608.48
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "REM: Elder Jesus Ron Marti 09/03 - TRANSFERENCIA PIX",
+        "valor": 60.0,
+        "saldo_apos_transacao": 668.48
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "REM: Nasthya Barauna Peixo 07/03",
+        "valor": 182.0,
+        "saldo_apos_transacao": 850.48
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 850.49
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: Douglas Almeida Menez 07/03 - TRANSFERENCIA PIX",
+        "valor": -350.0,
+        "saldo_apos_transacao": 500.49
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: Elder Jesus Ron Marti 07/03 - TRANSFERENCIA PIX",
+        "valor": -100.0,
+        "saldo_apos_transacao": 400.49
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: FABRICIO DA COSTA PEI 07/03 - TRANSFERENCIA PIX",
+        "valor": -14.22,
+        "saldo_apos_transacao": 386.27
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: Nasthya Barauna Peixo 09/03 - PIX QR CODE ESTATICO",
+        "valor": -11.0,
+        "saldo_apos_transacao": 375.27
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: ANTONIO MARCOS FELIX 07/03 - PIX QR CODE ESTATICO",
+        "valor": -20.0,
+        "saldo_apos_transacao": 355.27
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: Maria Antônia de Sous 07/03 - PIX QR CODE ESTATICO",
+        "valor": -3.0,
+        "saldo_apos_transacao": 352.27
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: ANTONIO MARCOS FELIX 07/03 - PIX QR CODE DINAMICO",
+        "valor": -35.0,
+        "saldo_apos_transacao": 317.27
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 07/03 - PIX QR CODE DINAMICO",
+        "valor": -9.1,
+        "saldo_apos_transacao": 308.17
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 09/03 - PIX QR CODE DINAMICO",
+        "valor": -33.16,
+        "saldo_apos_transacao": 275.01
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 09/03 - PIX QR CODE DINAMICO",
+        "valor": -14.25,
+        "saldo_apos_transacao": 260.76
+    },
+    {
+        "data_transacao": "2026-03-09",
+        "descricao": "DES: SPICY RESTAURANTE E S 07/03 - TRANSFERENCIA PIX",
+        "valor": -179.86,
+        "saldo_apos_transacao": 80.9
+    },
+    {
+        "data_transacao": "2026-03-10",
+        "descricao": "REM: ANDRESSA PAULA PEREIR 10/03 - TRANSFERENCIA PIX",
+        "valor": 40.0,
+        "saldo_apos_transacao": 120.9
+    },
+    {
+        "data_transacao": "2026-03-10",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 10/03 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 110.9
+    },
+    {
+        "data_transacao": "2026-03-10",
+        "descricao": "DES: Nasthya Barauna Peixo 10/03 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 100.9
+    },
+    {
+        "data_transacao": "2026-03-11",
+        "descricao": "REM: Ronivaldo Xavier de F 11/03 - PIX QR CODE DINAMICO",
+        "valor": 60.0,
+        "saldo_apos_transacao": 160.9
+    },
+    {
+        "data_transacao": "2026-03-11",
+        "descricao": "DES: V. VITORIO 11/03 - PIX QR CODE DINAMICO",
+        "valor": -12.0,
+        "saldo_apos_transacao": 148.9
+    },
+    {
+        "data_transacao": "2026-03-11",
+        "descricao": "DES: V. VITORIO 11/03 - TRANSFERENCIA PIX",
+        "valor": -32.0,
+        "saldo_apos_transacao": 116.9
+    },
+    {
+        "data_transacao": "2026-03-12",
+        "descricao": "REM: CENTRO DO ALUMINIO IN 12/03 - TRANSFERENCIA PIX",
+        "valor": 230.0,
+        "saldo_apos_transacao": 346.9
+    },
+    {
+        "data_transacao": "2026-03-12",
+        "descricao": "REM: KHALEB ROCHA DE FREIT 12/03",
+        "valor": 31.0,
+        "saldo_apos_transacao": 377.9
+    },
+    {
+        "data_transacao": "2026-03-12",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 377.91
+    },
+    {
+        "data_transacao": "2026-03-12",
+        "descricao": "DES: Nasthya Barauna Peixo 12/03 - PIX QR CODE DINAMICO",
+        "valor": -240.0,
+        "saldo_apos_transacao": 137.91
+    },
+    {
+        "data_transacao": "2026-03-12",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 12/03 - PIX QR CODE DINAMICO",
+        "valor": -16.8,
+        "saldo_apos_transacao": 121.11
+    },
+    {
+        "data_transacao": "2026-03-12",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 12/03 - TED-TRANSF ELET DISPON",
+        "valor": -91.0,
+        "saldo_apos_transacao": 30.11
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "REMET.KHALYL ROCHA FREITAS",
+        "valor": 470.35,
+        "saldo_apos_transacao": 500.46
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DEP DISPONIVEL INT AG - TRANSFERENCIA PIX",
+        "valor": 2991.54,
+        "saldo_apos_transacao": 3492.0
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DES: Eraldo Costa da Silva 13/03 - TRANSFERENCIA PIX",
+        "valor": -14.0,
+        "saldo_apos_transacao": 3478.0
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DES: KHALEB ROCHA DE FREIT 13/03 - PIX QR CODE DINAMICO",
+        "valor": -200.0,
+        "saldo_apos_transacao": 3278.0
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DES: 99 TECNOLOGIA LTDA 13/03 - PIX QR CODE DINAMICO",
+        "valor": -4.23,
+        "saldo_apos_transacao": 3273.77
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DES: JUST MORADA RESTAURAN 13/03 - PIX QR CODE DINAMICO",
+        "valor": -52.04,
+        "saldo_apos_transacao": 3221.73
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DES: BOBS 13/03 - PIX QR CODE DINAMICO",
+        "valor": -18.0,
+        "saldo_apos_transacao": 3203.73
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DES: TABACARIA AJURICABA 13/03 - PIX QR CODE DINAMICO",
+        "valor": -90.0,
+        "saldo_apos_transacao": 3113.73
+    },
+    {
+        "data_transacao": "2026-03-13",
+        "descricao": "DES: CECIL CONCORDE COMERC 13/03 - TRANSFERENCIA PIX",
+        "valor": -55.6,
+        "saldo_apos_transacao": 3058.13
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "REM: KHALEB ROCHA DE FREIT 14/03 - TRANSFERENCIA PIX",
+        "valor": 50.0,
+        "saldo_apos_transacao": 3108.13
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "REM: Erin Dante de Oliveir 14/03",
+        "valor": 30.0,
+        "saldo_apos_transacao": 3138.13
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "RENTAB.INVEST FACILCRED* - TRANSFERENCIA PIX",
+        "valor": 0.01,
+        "saldo_apos_transacao": 3138.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: JAMILLE ROCHA DE FREI 14/03 - TRANSFERENCIA PIX",
+        "valor": -233.0,
+        "saldo_apos_transacao": 2905.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 14/03 - TRANSFERENCIA PIX",
+        "valor": -865.0,
+        "saldo_apos_transacao": 2040.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: Nasthya Barauna Peixo 14/03 - TRANSFERENCIA PIX",
+        "valor": -1280.0,
+        "saldo_apos_transacao": 760.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: Khalyl Rocha De Freit 14/03 - TRANSFERENCIA PIX",
+        "valor": -400.0,
+        "saldo_apos_transacao": 360.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: Nasthya Barauna Peixo 16/03 - PIX QR CODE ESTATICO",
+        "valor": -51.0,
+        "saldo_apos_transacao": 309.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: Adilson Souza dos San 16/03 - PIX QR CODE ESTATICO",
+        "valor": -2.0,
+        "saldo_apos_transacao": 307.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: CLAUDETE DE OLIVEIRA 16/03 - PIX QR CODE DINAMICO",
+        "valor": -8.0,
+        "saldo_apos_transacao": 299.14
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: UBER DO BRASIL TECNOL 14/03 - PIX QR CODE DINAMICO",
+        "valor": -55.61,
+        "saldo_apos_transacao": 243.53
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: UBER DO BRASIL TECNOL 14/03 - PIX QR CODE DINAMICO",
+        "valor": -23.94,
+        "saldo_apos_transacao": 219.59
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 14/03 - PIX QR CODE DINAMICO",
+        "valor": -108.78,
+        "saldo_apos_transacao": 110.81
+    },
+    {
+        "data_transacao": "2026-03-16",
+        "descricao": "DES: SUPERMERCADOS DB LTDA 14/03 - TRANSFERENCIA PIX",
+        "valor": -54.4,
+        "saldo_apos_transacao": 56.41
+    },
+    {
+        "data_transacao": "2026-03-17",
+        "descricao": "REM: JAMILLE ROCHA DE FREI 17/03 - PIX QR CODE ESTATICO",
+        "valor": 300.0,
+        "saldo_apos_transacao": 356.41
+    },
+    {
+        "data_transacao": "2026-03-17",
+        "descricao": "DES: CLARO 17/03 - PIX QR CODE DINAMICO",
+        "valor": -26.23,
+        "saldo_apos_transacao": 330.18
+    },
+    {
+        "data_transacao": "2026-03-17",
+        "descricao": "DES: JA DIGITAL INSTITUICA 17/03 - PIX QR CODE DINAMICO",
+        "valor": -5.0,
+        "saldo_apos_transacao": 325.18
+    },
+    {
+        "data_transacao": "2026-03-17",
+        "descricao": "DES: JA DIGITAL INSTITUICA 17/03 - TRANSFERENCIA PIX",
+        "valor": -5.5,
+        "saldo_apos_transacao": 319.68
+    },
+    {
+        "data_transacao": "2026-03-18",
+        "descricao": "REM: Khalyl Rocha de Freit 18/03 - TRANSFERENCIA PIX",
+        "valor": 180.0,
+        "saldo_apos_transacao": 499.68
+    },
+    {
+        "data_transacao": "2026-03-18",
+        "descricao": "REM: Khalyl Rocha De Freit 18/03 - TRANSFERENCIA PIX",
+        "valor": 4.0,
+        "saldo_apos_transacao": 503.68
+    },
+    {
+        "data_transacao": "2026-03-18",
+        "descricao": "REM: Ronivaldo Xavier de F 18/03 - TRANSFERENCIA PIX",
+        "valor": 90.0,
+        "saldo_apos_transacao": 593.68
+    },
+    {
+        "data_transacao": "2026-03-18",
+        "descricao": "REM: Nasthya Barauna Peixo 18/03 - TRANSFERENCIA PIX",
+        "valor": 15.0,
+        "saldo_apos_transacao": 608.68
+    },
+    {
+        "data_transacao": "2026-03-18",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 18/03 - TRANSFERENCIA PIX",
+        "valor": -90.0,
+        "saldo_apos_transacao": 518.68
+    },
+    {
+        "data_transacao": "2026-03-18",
+        "descricao": "DES: CENTRO DO ALUMINIO IN 18/03 - TRANSFERENCIA PIX",
+        "valor": -410.0,
+        "saldo_apos_transacao": 108.68
+    },
+    {
+        "data_transacao": "2026-03-19",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 19/03 - TRANSFERENCIA PIX",
+        "valor": -23.0,
+        "saldo_apos_transacao": 85.68
+    },
+    {
+        "data_transacao": "2026-03-19",
+        "descricao": "DES: Luan Albuquerque da S 19/03 - TRANSFERENCIA PIX",
+        "valor": -10.0,
+        "saldo_apos_transacao": 75.68
+    },
+    {
+        "data_transacao": "2026-03-19",
+        "descricao": "DES: Nasthya Barauna Peixo 19/03 - PIX QR CODE ESTATICO",
+        "valor": -10.0,
+        "saldo_apos_transacao": 65.68
+    },
+    {
+        "data_transacao": "2026-03-19",
+        "descricao": "DES: JAKSON BATISTA BARROS 19/03",
+        "valor": -20.0,
+        "saldo_apos_transacao": 45.68
+    },
+    {
+        "data_transacao": "2026-03-19",
+        "descricao": "Total 17.375,12 - COD. LANC. 0 45,68 - TRANSFERENCIA PIX",
+        "valor": -17406.31,
+        "saldo_apos_transacao": 45.68
+    },
+    {
+        "data_transacao": "2026-03-20",
+        "descricao": "DES: Nasthya Barauna Peixo 20/03 - TRANSFERENCIA PIX",
+        "valor": -45.0,
+        "saldo_apos_transacao": 0.68
+    },
+    {
+        "data_transacao": "2026-03-23",
+        "descricao": "REM: JOSE ANTONIO RAYOL DO 21/03 - TRANSFERENCIA PIX",
+        "valor": 70.0,
+        "saldo_apos_transacao": 70.68
+    },
+    {
+        "data_transacao": "2026-03-23",
+        "descricao": "DES: KHALYL ROCHA DE FREIT 21/03",
+        "valor": -70.0,
+        "saldo_apos_transacao": 0.68
+    },
+    {
+        "data_transacao": "2026-03-23",
+        "descricao": "Total 70,00",
+        "valor": -115.0,
+        "saldo_apos_transacao": 0.68
+    }
+]
